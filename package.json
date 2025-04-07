@@ -12,12 +12,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^25.1.0",
-    "webpack": "^4.42.0",
-    "webpack-cli": "^3.3.11"
+    "firebase-tools": "^14.1.0",
+    "jest": "^25.5.4",
+    "webpack": "^4.47.0",
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
-    "firebase-tools": "^7.14.0",
     "terser": "^4.6.6"
   }
 }
